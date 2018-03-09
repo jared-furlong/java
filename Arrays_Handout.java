@@ -101,16 +101,8 @@ public class Arrays_Handout
 		object.displayIntArray(evenMoreNumbers);
       //Methods can also return arrays, making them useful for returning multiple values at once.
       //Here we create a new empty array and deploy a method to fill it with values, and then display it.
-
-
-		
-		
+	  
 		object.showArrayListsExample();
-		
-		
-
-		
-		
 	}
    
    /*****************************************************************************/
@@ -149,11 +141,6 @@ public class Arrays_Handout
  				     + num[0] + " ," +num[1] + " ," +num[2] +"\n"  //should say 100, 200, 0
  				     + str[0] +" "+ str[1] +" "+ str[2]);  //shoud say java is awesome
    }
-	
-	
-	
-	
-	
 	
     //*********************************************************************************************** 
     //NAME:	  displayIntArray 
